@@ -2,3 +2,5 @@ hello from deepdivefun
 coba squash 1
 coba squash 2
 coba squash 3
+
+coba code review oleh kontributor
